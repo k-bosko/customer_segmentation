@@ -1,8 +1,8 @@
 ## Table of Contents
 
 1. [Installation](#Installation)
-2. [Project Motivation](#Project Motivation)
-3. [File Descriptions](#File Descriptions)
+2. [Project Motivation](#Project-Motivation)
+3. [File Descriptions](#File-Descriptions)
 4. [Results](#Results)
 5. [Acknowledgements](#Acknowledgements)
 
@@ -17,8 +17,9 @@ _Libraries_: scikit-learn, pandas, NumPy, Matplotlib, Seaborn
 
 ## File Descriptions
 Because datasets are private, you can see only the results of the analysis in either html form or complete Jupyter Notebook:
-[Identify_Customer_Segments.html](https://github.com/k-bosko/customer_segmentation/blob/master/Identify_Customer_Segments.html)
-[Identify_Customer_Segments.ipynb](https://github.com/k-bosko/customer_segmentation/blob/master/Identify_Customer_Segments.ipynb)
+
+* [Identify_Customer_Segments.html](https://github.com/k-bosko/customer_segmentation/blob/master/Identify_Customer_Segments.html)
+* [Identify_Customer_Segments.ipynb](https://github.com/k-bosko/customer_segmentation/blob/master/Identify_Customer_Segments.ipynb)
 
 ## Results
 ...
