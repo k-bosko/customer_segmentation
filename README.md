@@ -25,7 +25,7 @@ In short, I completed the following steps:
   - applied feature scaling using `Imputer()` and `StandardScaler()`
   - performed dimensionality reduction using sklearn's `PCA()` 
   - created `scree_plot()` function to decide upon number of principal components
-  - created `map_pca` to map weights and investigate feature associations for the first 3 principal components
+  - created `map_pca()` function to map weights and investigate feature associations for the first 3 principal components
 - **Step 3: Clustering**
   - applied `KMeans()` clustering on the general population dataset
   - used _Elbow Method_ to decide upon optimal number of clusters 
